@@ -7,7 +7,7 @@ behave.example: Examples and Tutorials
 
 `behave`_ is a BDD test framework and cucumber-clone for Python.
 This project provides tutorials and examples how to use `behave`_.
-It should extends the excellent documentation of `behave`_.
+It should extend the excellent documentation of `behave`_.
 
 SEE ALSO:
   * https://github.com/jenisys/behave.example
